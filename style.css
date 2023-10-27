@@ -3,7 +3,7 @@ body {
     width: 100%;
     min-height: 100%;
     margin: 0;
-    background: #000000 url(20230321_214233.gif);
+    background: #000000 url(Polish_20231017_114613142.jpg);
     background-size: cover;
     display: flex;
     font-family: 'Product Sans';
@@ -62,7 +62,7 @@ body {
     -khtml-border-radius: 16px;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(15px);
-    border: red solid 1px;
+    border: blue solid 1px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .buttons {
@@ -105,7 +105,7 @@ a.link {
     width: 10em;
     height: 10em;
     border-radius: 5.6em;
-    border: red solid 2px;
+    border: blue solid 2px;
 }
 
 .pizdec {
